@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+    <title>Ryan Kiang's Resume</title>
+    </head>
+    <body>
+    <h1>Ryan Kiang</h1>
+    <div class="contact">
+      <ul>
+        <li>7403 Tristan Knoll, Excelsior, MN 55331</li>
+        <li>612-599-8328</li>
+        <li>ryanlkiang@gmail.com</li>
+      </ul>
+    </body>
+  </html>
