@@ -12,8 +12,12 @@
 }
 
 #experience {
-  padding-top: 30px;
+  padding-top: 20px;
   border-width: 3px 0px 0px 0px;
   border-style: solid;
   border-color: black;
+}
+
+.p {
+  padding-bottom: 20px;
 }
