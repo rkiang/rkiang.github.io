@@ -13,5 +13,7 @@
 
 #experience {
   padding-top: 30px;
-  border-top-width: 3px solid black;
+  border-top-width: 3px;
+  border-style: solid;
+  border-color: black;
 }
