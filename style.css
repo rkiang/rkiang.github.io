@@ -9,3 +9,7 @@ font-family: Arial;
 .date {
   float: right;
 }
+
+.experience {
+  line-height: 2em;
+}
