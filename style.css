@@ -2,7 +2,11 @@
   font-family: Arial;
 }
 
-.contact {
+body {
+  
+}
+
+#contact {
   display: inline-block;  
 }
 
