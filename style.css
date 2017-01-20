@@ -31,7 +31,7 @@ h1 {
   display: inline-block;
 }
 
-#contact {
+.contact {
   list-style: none;
   display: inline-block;  
 }
