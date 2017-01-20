@@ -5,6 +5,7 @@
 img {
   float: right;
   width: 200px;
+  display: inline-block;
 }
 
 body{
@@ -19,6 +20,7 @@ h1 {
   border-width: 0px 0px 2px 0px;
   border-style: solid;
   border-color: black;
+  font-size: 24px;
 }
 
 #position {
