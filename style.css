@@ -29,17 +29,20 @@ h1 {
   float:left;
   text-align: left;
   display: inline-block;
+  width: 150px;
 }
 
-.contact {
+#contact {
   list-style: none;
   display: inline-block;  
+  width: 150px;
 }
 
 .date {
   float: right;
   text-align: right;
   display: inline-block;
+  width: 150px;
 }
 
 #experience {
