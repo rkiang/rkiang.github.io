@@ -16,6 +16,8 @@ h1 {
 }
 
 #position {
+  float:left;
+  text-align: left;
   display: inline-block;
 }
 
@@ -26,6 +28,7 @@ h1 {
 .date {
   float: right;
   text-align: right;
+  display: inline-block;
 }
 
 #experience {
