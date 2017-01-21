@@ -27,6 +27,10 @@ h1 {
     display: inline;
 }
 
+.position {
+    display: inline-block;
+}
+
 .contact {
     line-height: 5px;
     font-size: 16px;
@@ -51,7 +55,7 @@ img {
 .date {
     float: right;
     text-align: right;
-    display: inline;
+    display: block;
     width: 50%;
 }
 
