@@ -49,7 +49,7 @@ img {
 }
 
 .date {
-    float: right;
+    text-align: right;
     display: inline;
     width: 50%;
 }
