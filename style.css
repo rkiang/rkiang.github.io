@@ -22,10 +22,15 @@ h1 {
 }
 
 .contact, .highlights {
+    line-height: 5px;
     width: 65%;
 }
 
 img {
     width:35%;
     float: right;
+}
+
+.highlights {
+    font-style: italic;
 }
