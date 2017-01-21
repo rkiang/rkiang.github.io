@@ -43,3 +43,17 @@ img {
     font-style: italic;
     font-size: 24px;
 }
+
+.company-date {
+    width: 50%;
+    display: inline-block;
+}
+
+.date {
+    float: right;
+}
+
+.experience {
+    font-size: 20px;
+    font-style: bold;
+}
