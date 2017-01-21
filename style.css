@@ -22,8 +22,12 @@ h1 {
 }
 
 .contact, .highlights {
-    line-height: 5px;
     width: 65%;
+}
+
+.contact {
+    line-height: 5px;
+    font-size: 16px;
 }
 
 img {
