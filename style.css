@@ -1,6 +1,6 @@
 body {
     font-family: Arial;
-    padding: 15px 25px;
+    padding: 20px 25px 80px 25px
     background-color: #788AAB;
     width:75%;
     margin: auto;
@@ -11,35 +11,31 @@ h1 {
     text-align: center;
     padding-bottom: 10px;
     border-bottom: 2px solid black;
-    margin: 0px 20px;
-    width: 100%;
-    display: inline-block;
 }
 
 #overview {
     padding-top: 10px;
     margin: 0px 20px;
-    border-bottom: 2px solid black;
+    width: 80%;
 }
 
-.contact, .highlights {
-    width: 65%;
-    display: inline;
-}
 
 .position {
     display: inline-block;
 }
 
 .contact {
-    line-height: 5px;
-    font-size: 16px;
-    padding-bottom: 20px;
+    line-height: .9em;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 img {
     width: 200px;
     float: right;
+    margin-top: 2px;
+    margin-right: 10%;
+    border-radius: 20px;
 }
 
 .highlights {
@@ -48,8 +44,9 @@ img {
 }
 
 .company {
-    width: 50%;
-    display: inline;
+    margin: auto;
+    padding-top: 10px;
+    border-top: 1px solid black;
 }
 
 .date {
@@ -60,7 +57,9 @@ img {
 }
 
 .experience {
-    font-size: 26px;
+    font-size: 30px;
     font-weight: bold;
+    font-style: italic;
     padding: 10px 5px;
+    text-align: center;
 }
