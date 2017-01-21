@@ -1,6 +1,7 @@
 body {
     font-family: Arial;
     padding: 15px 25px;
-    border: 1px black solid;
+    background-color: #788AAB;
+    border-radius: 5px;
     margin: 15px 25px;
  }
