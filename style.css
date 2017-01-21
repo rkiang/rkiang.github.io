@@ -2,9 +2,8 @@ body {
     font-family: Arial;
     padding: 15px 25px;
     background-color: #788AAB;
-    border-radius: 5px;
+    width:75%;
     margin: auto;
-    border: 2px hidden #788AAB;
  }
 
 #overview {
