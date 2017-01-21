@@ -6,3 +6,15 @@ body {
     margin: 15px 25px;
     border: 2px hidden #788AAB;
  }
+
+#overview {
+    display: inline-block;
+}
+
+.contact, .highlights {
+    width: 65%;
+}
+
+img {
+    width:35%;
+}
