@@ -25,14 +25,14 @@ h1 {
   font-size: 46px;
 }
 
-#position {
+.position {
   float:left;
   text-align: left;
   display: inline-block;
   width: 150px;
 }
 
-#contact {
+.contact {
   text-align: center;
 }
 
@@ -43,7 +43,7 @@ h1 {
   width: 150px;
 }
 
-#experience {
+.experience {
   font-size: 32px;
   font-weight: bold;
   padding-top: 20px;
