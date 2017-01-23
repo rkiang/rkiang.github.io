@@ -49,6 +49,7 @@ img {
     font-style: italic;
     font-size: 24px;
     width: 80%;
+    display: inline;
 }
 
 .company {
