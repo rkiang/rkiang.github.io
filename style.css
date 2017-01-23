@@ -3,7 +3,7 @@ body {
     padding: 20px 25px 80px 25px;
  }
 
-.content {
+#content {
     margin: 2% 8%;
     background-color: #788AAB;
     border-radius: 30px;
