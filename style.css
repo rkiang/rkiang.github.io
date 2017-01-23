@@ -1,13 +1,17 @@
 body {
     font-family: Arial;
     padding: 20px 25px 80px 25px;
-    background-color: #788AAB;
-    width:75%;
-    margin: auto;
  }
 
+.content {
+    margin: 2% 8%;
+    background-color: #788AAB;
+    border-radius: 30px;
+    padding: 2%;
+}
+
 h1 {
-    font-size: 38px;
+    font-size: 48px;
     text-align: center;
     padding-bottom: 10px;
     border-bottom: 2px solid black;
@@ -28,6 +32,8 @@ h1 {
     line-height: .9em;
     font-size: 18px;
     font-weight: bold;
+    display: inline-block;
+    margin: 0px 25px;
 }
 
 img {
@@ -36,11 +42,13 @@ img {
     margin-top: 2px;
     margin-right: 10%;
     border-radius: 20px;
+    display: block;
 }
 
 .highlights {
     font-style: italic;
     font-size: 24px;
+    width: 80%;
 }
 
 .company {
@@ -62,4 +70,10 @@ img {
     font-style: italic;
     padding: 10px 5px;
     text-align: center;
+}
+
+.duties {
+    font-size: 20px;
+    line-height: 25px;
+    margin-left: 25px;
 }
