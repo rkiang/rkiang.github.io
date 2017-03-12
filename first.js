@@ -4,4 +4,6 @@ $('.movie').on('click', function(){
 
 $('.movie').toogleClass('active');
 
+alert('working');
+
 $(document).ready(first);
