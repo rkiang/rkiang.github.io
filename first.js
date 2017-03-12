@@ -1,7 +1,7 @@
-$('.following').on('click', function(){
-  $('.follwing').toggle();
+$('.movie').on('click', function(){
+  $('.movie').toggle();
 });
 
-$('.memento').toogleClass('active');
+$('.movie').toogleClass('active');
 
 $(document).ready(first);
