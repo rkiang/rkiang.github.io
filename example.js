@@ -1,11 +1,11 @@
 var greeting = "Hello ";
-var name = "Molly";
+var name = "Ryan";
 var message = ', please check your order: ';
 var welcome = greeting + name + message;
 
 var sign = 'Montague House';
 var tiles = sign.length;
-var subTotal = tiles * 5;
+var subTotal = tiles * 4;
 var shipping = 7;
 var grandTotal = subTotal + shipping;
 
