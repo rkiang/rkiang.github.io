@@ -1,1 +1,3 @@
-alert('working');
+$('.description').hide();
+
+$(document).ready(films2);
