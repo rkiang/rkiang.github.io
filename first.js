@@ -1,8 +1,7 @@
 alert('working');
 
-function films() {
-  $('.descriptions').hide();
-  $('.descriptions').fadeIn(5000);
+
+$('.descriptions').hide();
   });
 }
-$(document).ready(films);
+$(document).ready(films2);
