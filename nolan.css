@@ -1,4 +1,31 @@
+body {
+  margin: 2% 10%;
+}
+
 img {
-  width: 200px;
-  float: right;
+width: 200px;
+float: right;
+clear: right;
+}
+
+features {
+  display: inline-block;
+  width: 13em;
+  padding: 2%;
+  margin: 2px;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.description {
+  margin: 160px;
+  font-size: 16px;
+  font-weight: normal;
+  text-align: left;
+}
+
+.titles {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
 }
