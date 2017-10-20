@@ -3,9 +3,28 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ryan Kiang | Software Developer</title>
+    <!-- Angular and Angular-Route -->
+    <script src="vendors/angular.min.js" charset="utf-8"></script>
+    <script src="vendors/angular-route.min.js" charset="utf-8"></script>
+
+    <!-- Angular Material -->
+    <link href="vendors/angular-material.css" rel="stylesheet" type="text/css">
+    <script src="vendors/angular-animate.min.js" charset="utf-8"></script>
+    <script src="vendors/angular-aria.min.js" charset="utf-8"></script>
+    <script src="vendors/angular-messages.min.js" charset="utf-8"></script>
+    <script src="vendors/angular-material.min.js" charset="utf-8"></script>
+
+    <!-- <link rel="stylesheet" href="vendors/bootstrap.css" /> -->
+    <!-- <link rel="stylesheet" href="styles/styles.css" /> -->
+    <link href="https://fonts.googleapis.com/css?family=Varela" rel="stylesheet">
 </head>
 <body>
     <h1>Ryan Kiang</h1>
-    <ng-view></ng-view>
+    <main ng-view>
+
+    
+    <footer ng-include="'partials/footer.html'"></footer>
+</main>
 </body>
+
 </html>
