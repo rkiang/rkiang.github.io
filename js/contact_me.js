@@ -67,6 +67,13 @@ $(function() {
     e.preventDefault();
     $(this).tab("show");
   });
+
+  // for Google forms in contact.html
+  var submitted = false;
+  $('#gform').on('submit', function (e) {
+    $('#gform *').fadeOut(1200);
+    $('#gform').prepend('Your message has been sent. Thank you.');
+  });
 });
 
 /*When clicking on Full hide fail/success boxes */
